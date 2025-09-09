@@ -89,12 +89,6 @@ g++ -o bhabhi_thulla "bhabhiThulla 1.5.cpp"
 - `checkThulla()`: Detect penalty conditions
 - `playGame()`: Main game loop
 
-## Authors
-
-- **Adil Zafar** (FA21-BSE-004)
-- **Muneeb Zahid** (FA21-BSE-091)  
-- **Talha Shafique** (FA21-BSE-152)
-
 ## Technical Notes
 
 - Uses Windows console API for cursor positioning and screen clearing
